@@ -1,1 +1,1 @@
-var numeroDez = 10;
+console.log("Olá Hibrido");
