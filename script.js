@@ -1,0 +1,1 @@
+var numeroDez = 10;
